@@ -1,0 +1,14 @@
+.fontx {
+    font-style: normal;
+    color: blue;
+    background-color: rgb(166, 229, 229);
+    font-weight: 700;
+}
+
+.fontx :hover {
+    background-color: rgb(238, 13, 13);
+}
+
+.fontx :focus {
+    cursor: pointer;
+}
